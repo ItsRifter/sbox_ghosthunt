@@ -17,7 +17,8 @@
       "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "gkaf.door_frame#27898"
+        "gkaf.door_frame#27898",
+        "eurorp.white_rough#15616"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
