@@ -18,7 +18,13 @@
       "PackageReferences": [],
       "EditorReferences": [
         "gkaf.door_frame#27898",
-        "eurorp.white_rough#15616"
+        "eurorp.white_rough#15616",
+        "gkaf.cinderblock_wall_to_dirty#24642",
+        "sugmatextures.stonetilefloor4#35775",
+        "pouragegaming.concrete042c_2k#29280",
+        "facepunch.concrete_b_hs#28971",
+        "sugmatextures.stonetilefloor8#37015",
+        "facepunch.stone_cladding_01#33579"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
