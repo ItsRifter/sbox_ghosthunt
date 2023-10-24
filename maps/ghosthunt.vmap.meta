@@ -25,7 +25,10 @@
         "facepunch.concrete_b_hs#28971",
         "sugmatextures.stonetilefloor8#37015",
         "facepunch.stone_cladding_01#33579",
-        "gkaf.wood_panel#11662"
+        "gkaf.wood_panel#11662",
+        "drakefruit.glass_blocks_001a#20453",
+        "way.dev_grid_red#41421",
+        "way.dev_grid_blue#41422"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
