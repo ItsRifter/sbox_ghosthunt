@@ -48,7 +48,14 @@
         "goose.g_tilesdamaged8u#9632",
         "pouragegaming.terrazzo018_2k#29386",
         "duccsoft.stone_tile#16666",
-        "gamemakers.scpcb_tilefloor#41536"
+        "gamemakers.scpcb_tilefloor#41536",
+        "facepunch.metal_painted_a_hs#29195",
+        "facepunch.door_lock_a#33671",
+        "facepunch.wood_painted_b_hs#28975",
+        "facepunch.metal_brushed_a_hs#28945",
+        "facepunch.metal_painted_black_b_hs#28948",
+        "facepunch.door_handle_a#33664",
+        "facepunch.metal_painted_b_hs#28950"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
