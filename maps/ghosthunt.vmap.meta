@@ -44,7 +44,24 @@
         "facepunch.cardboard_box#33592",
         "facepunch.concrete_c_hs#28941",
         "facepunch.wood_plank_blend_hs_01#28805",
-        "facepunch.concrete_hs_01#28793"
+        "facepunch.concrete_hs_01#28793",
+        "facepunch.pipe_a_2#33809",
+        "facepunch.pipe_a_128#33816",
+        "facepunch.pipe_a_16#33808",
+        "facepunch.pipe_a_1#33811",
+        "facepunch.pipe_a_cap#33812",
+        "facepunch.pipe_a_cap_b#33817",
+        "facepunch.pipe_a_corner_32#33818",
+        "facepunch.pipe_a_4#33810",
+        "rust.rubble_piles#25274",
+        "facepunch.binbag_pile_a2#17187",
+        "facepunch.trash_pile_c_02#37372",
+        "apetavern.grass_01a#27930",
+        "facepunch.trash_pile_a_02#37366",
+        "facepunch.trash_pile_c_04#37374",
+        "apetavern.trashcan#22568",
+        "facepunch.decal_liquid_a#33792",
+        "turd.terry_skibidi#27200"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
