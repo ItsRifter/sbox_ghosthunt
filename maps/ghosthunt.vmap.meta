@@ -44,7 +44,11 @@
         "facepunch.cardboard_box#33592",
         "facepunch.concrete_c_hs#28941",
         "facepunch.wood_plank_blend_hs_01#28805",
-        "facepunch.concrete_hs_01#28793"
+        "facepunch.concrete_hs_01#28793",
+        "goose.g_tilesdamaged8u#9632",
+        "pouragegaming.terrazzo018_2k#29386",
+        "duccsoft.stone_tile#16666",
+        "gamemakers.scpcb_tilefloor#41536"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
