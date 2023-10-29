@@ -40,7 +40,11 @@
         "facepunch.plaster_hs_01#33578",
         "facepunch.concrete_cast_hs_01#28794",
         "facepunch.plaster_hs_02#28800",
-        "mrtrn.mrtrn_stonewall3#34679"
+        "mrtrn.mrtrn_stonewall3#34679",
+        "facepunch.cardboard_box#33592",
+        "facepunch.concrete_c_hs#28941",
+        "facepunch.wood_plank_blend_hs_01#28805",
+        "facepunch.concrete_hs_01#28793"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
