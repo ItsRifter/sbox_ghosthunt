@@ -5,7 +5,6 @@ Layer0
 	shader "shaders/complex.shader"
 
 	//---- PBR ----
-	F_METALNESS_TEXTURE 1
 	F_SPECULAR 1
 
 	//---- Ambient Occlusion ----
@@ -25,7 +24,7 @@ Layer0
 	g_bFogEnabled "1"
 
 	//---- Metalness ----
-	TextureMetalness "materials/celldoor_material_metallic.png"
+	g_flMetalness "0.000"
 
 	//---- Normal ----
 	TextureNormal "materials/celldoor_material_normal.png"
