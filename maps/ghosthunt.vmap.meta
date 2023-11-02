@@ -106,7 +106,15 @@
         "eurorp.door00_left_01#12550",
         "rust.rubble_piles_junkyard#25276",
         "sugmatextures.dirtyofficetileceiling#34972",
-        "mdlresrc.rtx_oilbarrel#22477"
+        "mdlresrc.rtx_oilbarrel#22477",
+        "polyrats.untitled_3#13911",
+        "facepunch.wood_painted_a_hs#28972",
+        "greg.game_timesoldiers_p2#36254",
+        "facepunch.glass_a#19946",
+        "facepunch.concrete_barrier#33663",
+        "mufamoof.dev_sidewalk#12402",
+        "facepunch.floor_dirt_b#18644",
+        "facepunch.scaffolding_base_a#27428"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
