@@ -3,10 +3,10 @@
     "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
-      "Title": "frame_single",
+      "Title": "frame_double",
       "Type": "map",
       "Org": "local",
-      "Ident": "frame_single",
+      "Ident": "frame_double",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -21,7 +21,7 @@
         "facepunch.metal_painted_grey_a_hs#28954"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/prefabs/frame_single.vmap"
+        "SingleAssetSource": "maps/prefabs/frame_double.vmap"
       }
     }
   }

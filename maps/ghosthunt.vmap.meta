@@ -114,7 +114,15 @@
         "facepunch.concrete_barrier#33663",
         "mufamoof.dev_sidewalk#12402",
         "facepunch.floor_dirt_b#18644",
-        "facepunch.scaffolding_base_a#27428"
+        "facepunch.scaffolding_base_a#27428",
+        "facepunch.metal_painted_grey_a_hs#28954",
+        "polyhaven.coffee_cart_01#25477",
+        "facepunch.trash_pile_a_03#37367",
+        "facepunch.trash_pile_c_cigs_02#37376",
+        "facepunch.trash_pile_c_03#37373",
+        "andiq.crate#12840",
+        "hltwobetastuff.barrel12a#32125",
+        "hltwobetastuff.barrel11a#32112"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
