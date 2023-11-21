@@ -127,7 +127,18 @@
         "caro.shelf_b#28548",
         "facepunch.bulkhead_light#42011",
         "luke.metal_table#22924",
-        "caro.shelf_a#28546"
+        "caro.shelf_a#28546",
+        "facepunch.dirtpile_strt_01#37654",
+        "facepunch.wood_plank_hs_02#33585",
+        "facepunch.wooden_crate_02#43575",
+        "facepunch.trolley_02#43572",
+        "caro.crate#28576",
+        "facepunch.dirtpile_strt_03#37656",
+        "facepunch.dirtpile_03#37647",
+        "tfassets.concretewall002b#20825",
+        "facepunch.dirtpile_crn_03#37653",
+        "facepunch.wooden_crate_01#43574",
+        "facepunch.dirtpile_crn_01#37651"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
