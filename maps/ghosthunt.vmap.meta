@@ -138,7 +138,9 @@
         "tfassets.concretewall002b#20825",
         "facepunch.dirtpile_crn_03#37653",
         "facepunch.wooden_crate_01#43574",
-        "facepunch.dirtpile_crn_01#37651"
+        "facepunch.dirtpile_crn_01#37651",
+        "rustextended.concrete_leaks_e#43267",
+        "rustextended.glass_reinforced#43279"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
