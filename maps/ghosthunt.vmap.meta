@@ -144,7 +144,9 @@
         "meihoff.rustybed#24784",
         "facepunch.wood_trim_painted#43515",
         "facepunch.wood_trim_painted_blend_01#43516",
-        "facepunch.plastic_glossy_a_hs#28966"
+        "facepunch.plastic_glossy_a_hs#28966",
+        "eurorp.door02_right#9939",
+        "rustextended.cable_rack#43219"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
