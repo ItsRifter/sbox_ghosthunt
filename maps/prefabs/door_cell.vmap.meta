@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "door_cell",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "door_cell",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": "*",
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "andiq.crate#12840",
+        "eurorp.door02_right#9939"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/door_cell.vmap"
+      }
+    }
+  }
+}

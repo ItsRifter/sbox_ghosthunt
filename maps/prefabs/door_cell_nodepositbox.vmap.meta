@@ -1,0 +1,30 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "door_cell_nodepositbox",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "door_cell_nodepositbox",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": "*",
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "frogpond.wallclock#12971",
+        "rustextended.concrete_leaks_e#43267",
+        "andiq.crate#12840",
+        "eurorp.door02_right#9939"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/door_cell_nodepositbox.vmap"
+      }
+    }
+  }
+}
