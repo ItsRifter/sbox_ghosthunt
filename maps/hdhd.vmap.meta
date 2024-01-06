@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "hdhd",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "hdhd",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": "*",
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "ele.dev_measure_greendark#26651",
+        "ele.dev_measure_blue#26648",
+        "way.dev_grid_red#41421"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/hdhd.vmap"
+      }
+    }
+  }
+}
