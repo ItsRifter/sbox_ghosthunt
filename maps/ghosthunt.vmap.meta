@@ -160,7 +160,10 @@
         "baik.cabledrum#19448",
         "rustextended.decal_blood_splatter_b#43271",
         "sundayservice.wood_old_02#27324",
-        "sundayservice.wood_old_04#27326"
+        "sundayservice.wood_old_04#27326",
+        "facepunch.beer_bottle#33584",
+        "andiq.metalgrate010_2k#17280",
+        "tfassets.vent_system_straight_256_small#22836"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
