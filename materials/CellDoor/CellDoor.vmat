@@ -5,6 +5,7 @@ Layer0
 	shader "shaders/complex.shader"
 
 	//---- PBR ----
+	F_METALNESS_TEXTURE 1
 	F_SPECULAR 1
 
 	//---- Ambient Occlusion ----
@@ -15,7 +16,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/celldoor_material_basecolor.png"
+	TextureColor "materials/CellDoor/CellDoor_Material_BaseColor.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -24,14 +25,14 @@ Layer0
 	g_bFogEnabled "1"
 
 	//---- Metalness ----
-	g_flMetalness "0.000"
+	TextureMetalness "materials/CellDoor/CellDoor_Material_Metallic.png"
 
 	//---- Normal ----
-	TextureNormal "materials/celldoor_material_normal.png"
+	TextureNormal "materials/CellDoor/CellDoor_Material_Normal.png"
 
 	//---- Roughness ----
 	g_flRoughnessScaleFactor "1.000"
-	TextureRoughness "materials/celldoor_material_roughness.png"
+	TextureRoughness "materials/CellDoor/CellDoor_Material_Roughness.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
