@@ -166,7 +166,8 @@
         "tfassets.vent_system_straight_256_small#22836",
         "facepunch.wood_painted_black_a_hs#28973",
         "japancitymodels.pipe_02#32009",
-        "facepunch.pipe_wall_support_b#33827"
+        "facepunch.pipe_wall_support_b#33827",
+        "facepunch.metal_galvanized#18748"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/ghosthunt.vmap"
