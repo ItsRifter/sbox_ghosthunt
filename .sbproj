@@ -5,12 +5,7 @@
   "Ident": "sbox_ghosthunt",
   "Tags": null,
   "Schema": 1,
-  "HasAssets": true,
-  "AssetsPath": "",
   "Resources": null,
-  "MenuResources": null,
-  "HasCode": false,
-  "CodePath": null,
   "PackageReferences": [],
   "EditorReferences": null,
   "Metadata": {
