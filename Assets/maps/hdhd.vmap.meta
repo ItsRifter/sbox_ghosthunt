@@ -1,28 +1,25 @@
 {
   "publish": {
-    "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
       "Title": "hdhd",
       "Type": "map",
       "Org": "local",
       "Ident": "hdhd",
-      "Tags": null,
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
+      "IncludeSourceFiles": false,
       "Resources": null,
-      "MenuResources": "*",
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "ele.dev_measure_greendark#26651",
         "ele.dev_measure_blue#26648",
+        "ele.dev_measure_greendark#26651",
         "way.dev_grid_red#41421"
       ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "maps/hdhd.vmap"
+        "SingleAssetSource": "maps/hdhd.vmap",
+        "ParentPackage": "facepunch.walker"
       }
     }
   }

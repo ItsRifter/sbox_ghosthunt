@@ -1,27 +1,24 @@
 {
   "publish": {
-    "Allowed": true,
     "Enabled": false,
     "ProjectConfig": {
       "Title": "frame_single",
       "Type": "map",
       "Org": "local",
       "Ident": "frame_single",
-      "Tags": null,
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
+      "IncludeSourceFiles": false,
       "Resources": null,
-      "MenuResources": null,
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
         "eurorp.door00_left_01#12550",
         "facepunch.metal_painted_grey_a_hs#28954"
       ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "maps/prefabs/frame_single.vmap"
+        "SingleAssetSource": "maps/prefabs/frame_single.vmap",
+        "ParentPackage": "facepunch.walker"
       }
     }
   }
