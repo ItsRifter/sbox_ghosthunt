@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "logic_experiment",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "logic_experiment",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "roomfield.skeletom#20023",
+        "mungus.the_sbox_song#9620",
+        "ipvfour.boomheadshot#20314",
+        "eurorp.door00_left_01#12550",
+        "greg.game_timesoldiers_p2#36254"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/logic_experiment.vmap"
+      }
+    }
+  }
+}
